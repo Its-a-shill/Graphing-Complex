@@ -1,4 +1,4 @@
-# furry-octo-computing-machine
+# Graphing Complex
 
 It makes graphs. 
 Graphing does what you might expect - graphs the output function values for a given input rectangle.
